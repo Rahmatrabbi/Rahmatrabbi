@@ -1,5 +1,3 @@
-![Web developer](https://scontent.fdac27-2.fna.fbcdn.net/v/t1.6435-9/120777485_2703986849888965_5913294771415845353_n.jpg?stp=dst-jpg_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFmKRrYeCuj2w_Z8pDZEZfSSeifd-GC9jNJ6J934YL2M7aIQv-LgMWLx2Cyuj5S94UfjJaVnkoEByIoZ1eVBd6z&_nc_ohc=X7TFisCE8tIAX_FW4fU&_nc_ht=scontent.fdac27-2.fna&oh=00_AfC5YEIx5wcknVqCIWRR9dFdehF8giAwBVJtT_hRlG43RQ&oe=63987F2F)
-
 ### Hi there 👋, This is Rahmat E Rabbi
 #### Web developer
 
