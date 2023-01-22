@@ -24,4 +24,4 @@ Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatrabbi&langs_count=8)](https://github.com/Rahmatrabbi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatrabbi&layout=compact)](https://github.com/Rahmatrabbi/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Rahmatrabbi)  
+ 
