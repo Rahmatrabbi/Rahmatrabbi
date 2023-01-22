@@ -21,5 +21,6 @@ Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Rahmatrabbi)](https://github.com/Rahmatrabbi/github-profile-trophy)
 [![Antus GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahmatrabbi)](https://github.com/Rahmatrabbi/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahmatrabbi&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatrabbi&layout=compact)](https://github.com/Rahmatrabbi/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Rahmatrabbi)  
