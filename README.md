@@ -18,7 +18,7 @@ Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rahmatrabbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/drj.antu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MDRER51)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linekdin' height='40'>](https://www.linkedin.com/in/rahmat-e-rabbi-b117a7262)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Rahmatrabbi)](https://github.com/Rahmatrabbi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahmatrabbi&theme=onedark)](https://github.com/Rahmatrabbi/github-profile-trophy)
 [![Antus GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahmatrabbi)](https://github.com/Rahmatrabbi/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahmatrabbi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatrabbi&langs_count=8)](https://github.com/Rahmatrabbi/github-readme-stats)
