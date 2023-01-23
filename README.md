@@ -5,13 +5,13 @@
 A passionate full stack developer from Bangladesh
 
 
-Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER
+Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER/WordPress
 
-- 🔭 I’m currently working on Android Studio 
-- 🌱 I’m currently learning Bootstrap, Nodejs, Mongoose, Laravel, SQL, Flutter 
+- 🔭 I’m currently working on Set Up eCommerce on WordPress 
+- 🌱 I’m currently learning Bootstrap, Nodejs, Mongoose, Laravel, SQL, Flutter, PHP , WordPress
 - 👯 I’m looking to collaborate on Youtube 
 - 🤔 I’m looking for help with blog and documentation 
-- 💬 Ask me about Bootstrap, Nodejs, Mongodb, HTML, CSS 
+- 💬 Ask me about Bootstrap, Nodejs, Mongodb, HTML, CSS, PHP , WordPress
 - 📫 How to reach me: mdrabbicse2018@gmail.com 
 - ⚡ Fun fact: I spend almost 3 hours for songs and drama everyday. 
 
