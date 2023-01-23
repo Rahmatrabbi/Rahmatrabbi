@@ -5,7 +5,7 @@
 A passionate full stack developer from Bangladesh
 
 
-Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER/WordPress
+Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER/ WordPress
 
 - 🔭 I’m currently working on Set Up eCommerce on WordPress 
 - 🌱 I’m currently learning Bootstrap, Nodejs, Mongoose, Laravel, SQL, Flutter, PHP , WordPress
