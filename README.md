@@ -12,7 +12,7 @@ Skills: BOOTSTRAP / JS / HTML / CSS/ PHP/ SQL / FLUTTER/ WordPress
 - 👯 I’m looking to collaborate on Youtube 
 - 🤔 I’m looking for help with blog and documentation 
 - 💬 Ask me about Bootstrap, Nodejs, Mongodb, HTML, CSS, PHP , WordPress
-- 📫 How to reach me: mdrabbicse2018@gmail.com 
+- 📫 How to reach me: rahmaterabbi106@gmail.com 
 - ⚡ Fun fact: I spend almost 3 hours for songs and drama everyday. 
 
 
